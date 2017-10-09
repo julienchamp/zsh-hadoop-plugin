@@ -15,3 +15,4 @@ Using [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh):
 3. Source `~/.zshrc`  to take changes into account:
 
         source ~/.zshrc
+
